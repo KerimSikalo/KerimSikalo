@@ -12,13 +12,13 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" alt="C#" width="77">
-  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white" alt="C" width="100">
-  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++" width="150">
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java" width="99">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" width="240">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" width="187">
-  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL" width="140">
+  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" alt="C#" width="50">
+  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white" alt="C" width="63">
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++" width="95">
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java" width="64">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" width="155">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" width="120">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL" width="93">
 </p>
 <br>
 <br>
