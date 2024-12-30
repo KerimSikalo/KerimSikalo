@@ -55,8 +55,8 @@ I'm always looking to collaborate on exciting projects or opportunities to learn
 
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KerimSikalo&show_icons=true&theme=tokyonight&hide_border=true" height="200" alt="Kerims's github stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerimSikalo&layout=compact&theme=tokyonight&hide_border=true" height="200"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KerimSikalo&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="Kerims's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerimSikalo&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
 
